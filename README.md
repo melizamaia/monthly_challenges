@@ -8,4 +8,4 @@ Aprendizado:
 
 -Nesse desafio compreendi mais sobre a criação e o caminhos de diversas pastas
 
--Percebi que o tutorial não foi utilizando .env, segui o caminho, mas entendo que não é uma boa prática. Nos próximos irei utilizar a boa prática mesmo não sendo pedida
+-Percebi que o tutorial não foi utilizando .env e adicionei
